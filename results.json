@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Tim",
+        "roll_no": "20",
+        "marks": 77.0,
+        "result": "Pass"
+    },
+    {
+        "name": "Keshav",
+        "roll_no": "2",
+        "marks": 90.0,
+        "result": "Pass"
+    },
+    {
+        "name": "Jessy",
+        "roll_no": "5",
+        "marks": 95.0,
+        "result": "Pass"
+    },
+    {
+        "name": "John",
+        "roll_no": "23",
+        "marks": 30.0,
+        "result": "Fail"
+    },
+    {
+        "name": "Smith",
+        "roll_no": "35",
+        "marks": 35.0,
+        "result": "Pass"
+    },
+    {
+        "name": "Alyzha",
+        "roll_no": "24",
+        "marks": 57.0,
+        "result": "Pass"
+    }
+]
