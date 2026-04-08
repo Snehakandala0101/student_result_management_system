@@ -134,7 +134,6 @@ python main.py
 
 ---
 ### Future Enhancements
-
 :diamonds: Convert to Flask web application
 :diamonds: Integrate SQLite database
 :diamonds: Add authentication system
