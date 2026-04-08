@@ -35,17 +35,25 @@ This project was built to strengthen backend fundamentals including file handlin
 ---
 ## :rocket:Features
 :white_check_mark: Add new student records
+
 :white_check_mark: View all student records
+
 :white_check_mark: Search student by roll number
+
 :white_check_mark: Update student marks
+
 :white_check_mark: Delete student record
+
 :white_check_mark: Generate Pass/Fail result in JSON
+
 :white_check_mark: Activity logging system
+
 :white_check_mark: Exception handling
 
 ---
 ## :gear:How It Works
 :one: **Data Management (CSV)**
+
 Student records are stored in ```data.csv```
 **CSV structure:**
 ```Name, Roll_No, Marks```
@@ -135,7 +143,9 @@ python main.py
 ---
 ### Future Enhancements
 :diamonds: Convert to Flask web application
+
 :diamonds: Integrate SQLite database
+
 :diamonds: Add authentication system
 
 ---
